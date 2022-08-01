@@ -34,8 +34,8 @@ The interest of the token holders are represented by The Core; interest of thems
 
 ## Section 1.4
 
-Ethos is the alpha, The Core
-Pathos is the Delta, The Council
+Ethos is the alpha, The Core  
+Pathos is the Delta, The Council  
 Logos is the omega, The Court
 
 ## Section 1.5
