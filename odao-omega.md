@@ -24,6 +24,23 @@ Definition is of utmost importance.
 
 # Article II -- The Pathos
 
+## Section 2.1
+
+The power to change the social contract is akin to the power to change the truth and it is given to omega in trust by ODAO to ensure that the written word has meaning to it. 
+
+## Section 2.2
+
+
+
 # Article III -- The Logos
 
-# Article IV -- The Kairos 
+## Section 3.1
+
+
+# Article IV -- The Kairos
+
+## Section 4.1
+
+Law imposed on that of ODAO is meant to serve it, not the other way around.
+
+## Section 4.2
