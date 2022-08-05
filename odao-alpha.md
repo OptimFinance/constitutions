@@ -56,7 +56,7 @@ The invitation to the aforementioned group, 'the alpha board', is extended to in
 
 ## Section 3.3
 
-Additionally, when the protocol parameters can be adjusted without redeploying capital, the token-based majority wins vote is also held to aprove of it. The threshold of acceptance is set to 5/7, and required participation of total token weight of the alpha board is also 5/7. The voing period must last for no less than 2 weeks, only able to be cut short if the required votes are cast. 
+Additionally, when the protocol parameters can be adjusted without redeploying capital, the token-based majority wins vote is also held to aprove of it. The threshold of acceptance is set to 5/7, and required participation of total token weight of the alpha board is also 5/7. All quantities where fractional are rounded down. The voing period must last for no less than 2 weeks, only able to be cut short if the required votes are cast. 
 
 ## Section 3.4
 
@@ -65,6 +65,14 @@ The alpha shall hold meetings no less often than once a calendar month for the b
 ## Section 3.5
 
 A member of alpha shall be enabled to partake in all internal discussions. Only external contributors may have limited access to that which is of alpha.
+
+## Section 3.6
+
+For a member of the board that is unable to vote for a period of one calendar month, or otherwise unable to make contact with, is presumed naurally dead and removed from the board until contact is able to be establised again.
+
+## Section 3.7
+
+Were a member to purposefully go awol, it is possible to delegate both their token weight and member weight (1) to another board member. This is only possible for a period of one calendar month during which 3.6 is in effect.
 
 (organization, decision making)
 
@@ -76,6 +84,6 @@ Born out of nothing, alpha must always be the guiding force behind each move. St
 
 ## Section 4.2
 
-For every problem the Court must always have a solution. To bring hope and ensure prosperity.
+For every problem the Core must always have a solution. To bring hope and ensure prosperity.
 
 (evolution, context)
