@@ -3,7 +3,7 @@
 
 ## Preamble
 
-The Council exists to take care of the treasury and dynamic funding needed by the protocols which fund ODAO. Focus on what is, see what can be. Enable the Core. Embrace the Court.
+The Council exists in order to provide a perspective of a group of people only interested to make as much money as possible from the system. It achieves this by taking care of the treasury and dynamic funding needed by the protocols which fund ODAO. Focus on what is, see what can be. Enable the Core. Embrace the Court.
 
 
 # Article I -- The Ethos
@@ -21,10 +21,6 @@ The only meaningful truth is one that is acted upon.
 The fear and greed cycle repeats ad infinitum. 
 
 ## Section 1.4
-
-Accept the differences, focus on the limit.
-
-## Section 1.5
 
 See the direction, understand the change, feel its momentum. 
 
@@ -46,7 +42,6 @@ The delta shall discuss new investment strategies specifically within itself. Th
 ## Section 2.4
 
 The delta is not compensated by the token released by the alpha. The delta should be focusing on the overall health and longevity of ODAO as a whole. 
-
 
 
 # Article III -- The Logos
@@ -89,7 +84,7 @@ Performance reporting is a must. Monthly performance should be maintained and pu
 
 -Delta board member compensation will be based on a split between asset based fee and performance based fee (some would call this a 2-20 structure, though not 2% and 20% respectively). 
 -The asset based fee will be penalized/slashed if day-to-day operations are not handled appropriately.
--The performance based fee will have a hurdle rate (not a high water ) of 13%.
+-The performance based fee will have a hurdle rate (not a high water ) of 13%. Basis of calculating it will be the modified dietz method. (TBD)
 -Many investments will purposefully not attempt to earn a performance fee since they will be used to fund shorter term expected expenses/liabilities. For example, audit contract payment at completion of audit could be held in stablecoins, potentially in a liquid lending protocol, with no expectation of earning 13%.
 -Longer term investments not specifically bucketed for expenses/liabilities may attempt to earn a performance fee. These types of investments must have specific stop-loss triggers.
 
