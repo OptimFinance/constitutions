@@ -8,6 +8,8 @@ The document holds the shared substance between all that is of ODAO, citizens, b
 
 It is divided in 3 articles that pertain where is ODAO derived from, its structure, and the inhabitants of it. It establishes the 3-branch structure of itself and how power is divided between them and how they are to keep each other in check.
 
+A more visual (older) version of the document with more context that goes through the  is here: [ODAO_OF_ALL_INTERESTS.pdf](ODAO_OF_ALL_INTERESTS.pdf)
+
 ## Constitutions of Branches
 
 [The Core, alpha](odao-alpha.md)  
